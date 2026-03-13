@@ -1,0 +1,9 @@
+{
+  "name": "x-viral-repost",
+  "version": "0.2.0",
+  "description": "X（Twitter）でフォロー中ユーザーのバズ投稿を見つけ、人間らしいコメント付きで引用リポストするプラグイン",
+  "author": {
+    "name": "Takeshi Fukuda"
+  },
+  "keywords": ["x", "twitter", "repost", "viral", "sns"]
+}

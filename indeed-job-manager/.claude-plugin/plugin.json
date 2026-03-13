@@ -1,0 +1,9 @@
+{
+  "name": "indeed-job-manager",
+  "version": "0.3.0",
+  "description": "Indeed求人の管理自動化プラグイン。求人パフォーマンス分析・競合分析・改善提案レポート出力、求人リフレッシュ（終了→複製→再掲載）、求人ボックス・エンゲージへのSEO最適化付き同期を行う。",
+  "author": {
+    "name": "Takeshi Fukuda"
+  },
+  "keywords": ["indeed", "recruitment", "job-posting", "automation", "kyujinbox", "engage", "sync", "analytics", "performance", "competitive-analysis"]
+}

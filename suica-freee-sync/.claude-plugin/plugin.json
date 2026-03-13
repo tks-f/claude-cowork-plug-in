@@ -1,0 +1,9 @@
+{
+  "name": "suica-freee-sync",
+  "version": "0.2.0",
+  "description": "モバイルSuicaの利用履歴をfreee会計に差分同期するプラグイン。Suicaサイトからブラウザ操作で取引明細を取得し、freeeに存在しない明細のみを特定してCSVインポートする。",
+  "author": {
+    "name": "Takeshi Fukuda"
+  },
+  "keywords": ["suica", "freee", "会計", "交通費", "同期", "経費"]
+}
