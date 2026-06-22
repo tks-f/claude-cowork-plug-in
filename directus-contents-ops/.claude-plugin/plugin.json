@@ -1,0 +1,9 @@
+{
+  "name": "directus-contents-ops",
+  "version": "0.7.0",
+  "description": "Create SEO-optimized Japanese article drafts for the 株式会社TryWith corporate site that drive inquiries, including Directus duplicate-checking, draft registration, and Japanese banner/figure generation.",
+  "author": {
+    "name": "株式会社TryWith"
+  },
+  "keywords": ["seo", "content", "japanese", "directus", "btob", "trywith"]
+}
